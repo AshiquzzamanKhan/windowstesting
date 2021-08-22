@@ -1,1 +1,2 @@
 somefiles
+New line on file1
