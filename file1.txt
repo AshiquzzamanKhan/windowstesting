@@ -2,3 +2,4 @@ somefiles
 New line on file1
 another line in file 1
 another line for ssh
+new line for another test
